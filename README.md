@@ -14,3 +14,5 @@ As well as the IGBTs it allows for a variety of bus/decoupling capacitors and bl
 This board is designed to go with a matching gate drive connector PCBA, see my other repo for this.
 
 As it's cheapest and easiest to get 2 layer 1oz copper PCBs, I have made sure everything is mirrored around the centre of the PCB, allowing for a stack of an odd number of boards, with every second one flipped, to be made and used as one "multi-layer" PCBA. This both reduces the copper resistance and also the inductance of the bridge. I'll be trying this out with a JLCPCB order of 5x0.8mm PCBs for a 4mm thick stack costing ~$25 USD. For people who don't care about the cost ideally it'd be done with 1 PCB of 2oz+ and 3.2mm thickness for rigidity.
+
+Note: See Manufacturing/Reference output folders for gerbers, schematic PDFs, STEP files etc.
