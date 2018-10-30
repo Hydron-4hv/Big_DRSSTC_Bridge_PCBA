@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\tsv\Google Drive\PCB\Big Coil Bridge PCBA\Big Coil Bridge PCBA_2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=big coil bridge pcba_2-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=big coil bridge pcba_2-slotholes.txt|DrillLayers=gtl,gbl

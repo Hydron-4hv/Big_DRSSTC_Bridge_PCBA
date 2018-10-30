@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Big Coil Bridge PCBA_2.PcbDoc   30/10/2018  12:33:49
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Big Coil Bridge PCBA_2-RoundHoles.TXT
+ASCII SlotHoles File : Big Coil Bridge PCBA_2-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Round             792       PTH        0.00inch (0.00mm)
+T2      39mil (1mm)                                               Round             4         PTH        0.00inch (0.00mm)
+T3      47mil (1.2mm)                                             Round             8         PTH        0.00inch (0.00mm)
+T4      59mil (1.5mm)                                             Round             24        PTH        0.00inch (0.00mm)
+T5      205mil (5.2mm)                                            Round             12        PTH        0.00inch (0.00mm)
+T6      248mil (6.3mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T7      248mil (6.3mm)                                            Slot              4         PTH        0.00inch (0.00mm)
+T8      157mil (4mm)                                              Slot              8         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              854
+
+Total Processing Time (hh:mm:ss) : 00:00:00

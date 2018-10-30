@@ -1,0 +1,8 @@
+Designator,Comment,Description,Fitted,Footprint,LibRef,Quantity
+
+"C1, C2","885012209028","Electrolytic capacitor","Fitted","PEH200YV447BMB2","Capacitor_Elec","2"
+"C3, C4, C5, C6, C7, C8","","","Fitted","C4AEOBW5400A3NJ","Capacitor","6"
+"C9, C10","RBPS_Snubber_Capacitor_Mech_only","","Fitted","RBPS_R4_OUTLINE","RBPS_Snubber_Capacitor_Mech_only","2"
+"C11, C12, C13, C14, C15, C16, C17, C18","Capacitor","","Fitted","1825C, B32653A0224, 1812C","Capacitor","8"
+"Q1, Q2","DUAL_IGBT_BRICK","IGBT, DUAL, BRICK","Fitted","CM300/SKM200_DUAL_FOOTPRINT_2","DUAL_IGBT_BRICK","2"
+"R1, R2, R3, R4","Resistor","","Fitted","Res_Axial_0.6in","Resistor","4"

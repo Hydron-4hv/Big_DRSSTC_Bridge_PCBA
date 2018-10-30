@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:36:04 On 30/10/2018
+
+Output: BoM CSV
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Big Coil Bridge PCBA.PrjPCB]
+   Generated File[BoM CSV-Big Coil Bridge PCBA.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:36:07 On 30/10/2018

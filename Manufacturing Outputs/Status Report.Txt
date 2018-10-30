@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Big Coil Bridge PCBA_2.PcbDoc]
+   Generated File[Big Coil Bridge PCBA_2-RoundHoles.TXT]
+   Generated File[Big Coil Bridge PCBA_2-SlotHoles.TXT]
+   Generated File[Big Coil Bridge PCBA_2.LDP]
+   Generated File[Big Coil Bridge PCBA_2.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:33:58 On 30/10/2018

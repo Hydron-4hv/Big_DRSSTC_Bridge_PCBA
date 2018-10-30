@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:35:54 On 30/10/2018
+
+Output: Export STEP Model of complete PCB
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [Big Coil Bridge PCBA_2.PcbDoc]
+   Generated File[Export STEP Model of complete PCB_Big Coil Bridge PCBA-([No Variations]).step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:35:57 On 30/10/2018
